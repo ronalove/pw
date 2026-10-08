@@ -7,7 +7,7 @@ A fast, secure CLI password generator built in Rust.
 ### Homebrew (macOS/Linux)
 
 ```bash
-brew install r9r-dev/tap/pw
+brew install ronalove/tap/pw
 ```
 
 ### From source

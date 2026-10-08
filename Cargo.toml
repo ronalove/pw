@@ -4,7 +4,7 @@ version = "0.1.1"
 edition = "2024"
 description = "A fast, secure CLI password generator"
 license = "MIT"
-repository = "https://github.com/r9r-dev/pw"
+repository = "https://github.com/ronalove/pw"
 
 [dependencies]
 clap = { version = "4", features = ["derive", "cargo"] }

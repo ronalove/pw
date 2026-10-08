@@ -39,7 +39,7 @@ clap 4 (derive), rand 0.9, arboard 3, zxcvbn 3, colored 3
 - Wordlist contains hyphenated words (e.g. "drop-down")
 - CI: `.github/workflows/ci.yml` (fmt, clippy, tests)
 - Release: `.github/workflows/release.yml` (cross-platform + Homebrew tap)
-- Distribution: `r9r-dev/homebrew-pw` tap repo (needs `TAP_TOKEN` secret)
+- Distribution: `ronalove/homebrew-pw` tap repo (needs `TAP_TOKEN` secret)
 
 ## Profiles
 pin, pin6, wifi, strong, alpha, hex, memorable, uuid
